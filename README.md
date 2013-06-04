@@ -8,5 +8,5 @@ which will send you missed mentions or private messages by e-mail when you are n
 ## Installation
 
 * You must have ZNC setup with [Modpython enabled](http://wiki.znc.in/Modpython).
-* place [awayemail.py](awayemail.py) in `<ZNC DIR>/modules/` (<ZNC DIR> is probably `/var/lib/znc/` unless you set it elsewhere)
+* place [awayemail.py](awayemail.py) in `<ZNC DIR>/modules/` (`<ZNC DIR>` is probably `/var/lib/znc/` unless you set it elsewhere)
 * enable `awayemail` module
